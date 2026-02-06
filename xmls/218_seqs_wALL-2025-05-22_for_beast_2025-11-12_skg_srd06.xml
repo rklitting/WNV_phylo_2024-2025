@@ -2666,13 +2666,13 @@
 
 	<!-- Taxon Sets                                                              -->
 	
-	<tmrcaStatistic id="tmrca(MW)" absolute="false" includeStem="true">
+	<tmrcaStatistic id="tmrca(MW)" absolute="false" includeStem="false">
 		<mrca>
 			<taxa idref="MW"/>
 		</mrca>
 		<treeModel idref="treeModel"/>
 	</tmrcaStatistic>
-	<tmrcaStatistic id="age(MW)" absolute="true" includeStem="true">
+	<tmrcaStatistic id="age(MW)" absolute="true" includeStem="false">
 		<mrca>
 			<taxa idref="MW"/>
 		</mrca>
@@ -2684,13 +2684,13 @@
 		</mrca>
 		<treeModel idref="treeModel"/>
 	</monophylyStatistic>
-	<tmrcaStatistic id="tmrca(PACA1823)" absolute="false" includeStem="true">
+	<tmrcaStatistic id="tmrca(PACA1823)" absolute="false" includeStem="false">
 		<mrca>
 			<taxa idref="PACA1823"/>
 		</mrca>
 		<treeModel idref="treeModel"/>
 	</tmrcaStatistic>
-	<tmrcaStatistic id="age(PACA1823)" absolute="true" includeStem="true">
+	<tmrcaStatistic id="age(PACA1823)" absolute="true" includeStem="false">
 		<mrca>
 			<taxa idref="PACA1823"/>
 		</mrca>
@@ -2702,13 +2702,13 @@
 		</mrca>
 		<treeModel idref="treeModel"/>
 	</monophylyStatistic>
-	<tmrcaStatistic id="tmrca(PACA2425)" absolute="false" includeStem="true">
+	<tmrcaStatistic id="tmrca(PACA2425)" absolute="false" includeStem="false">
 		<mrca>
 			<taxa idref="PACA2425"/>
 		</mrca>
 		<treeModel idref="treeModel"/>
 	</tmrcaStatistic>
-	<tmrcaStatistic id="age(PACA2425)" absolute="true" includeStem="true">
+	<tmrcaStatistic id="age(PACA2425)" absolute="true" includeStem="false">
 		<mrca>
 			<taxa idref="PACA2425"/>
 		</mrca>
@@ -2720,13 +2720,13 @@
 		</mrca>
 		<treeModel idref="treeModel"/>
 	</monophylyStatistic>
-	<tmrcaStatistic id="tmrca(Paris)" absolute="false" includeStem="true">
+	<tmrcaStatistic id="tmrca(Paris)" absolute="false" includeStem="false">
 		<mrca>
 			<taxa idref="Paris"/>
 		</mrca>
 		<treeModel idref="treeModel"/>
 	</tmrcaStatistic>
-	<tmrcaStatistic id="age(Paris)" absolute="true" includeStem="true">
+	<tmrcaStatistic id="age(Paris)" absolute="true" includeStem="false">
 		<mrca>
 			<taxa idref="Paris"/>
 		</mrca>
@@ -2738,13 +2738,13 @@
 		</mrca>
 		<treeModel idref="treeModel"/>
 	</monophylyStatistic>
-	<tmrcaStatistic id="tmrca(SA)" absolute="false" includeStem="true">
+	<tmrcaStatistic id="tmrca(SA)" absolute="false" includeStem="false">
 		<mrca>
 			<taxa idref="SA"/>
 		</mrca>
 		<treeModel idref="treeModel"/>
 	</tmrcaStatistic>
-	<tmrcaStatistic id="age(SA)" absolute="true" includeStem="true">
+	<tmrcaStatistic id="age(SA)" absolute="true" includeStem="false">
 		<mrca>
 			<taxa idref="SA"/>
 		</mrca>
