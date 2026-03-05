@@ -27,7 +27,7 @@ Begin taxa;
 		JET8|FRA-Herault|2024-09-11
 		Lattes-E12|FRA-Herault|2024-08-28
 		Lattes-MX|FRA-Herault|2024-08-28
-		OZ221437|Spain|2024-09-10
+		PP_0011ANA|Spain|2024-09-10
 		Ollioules-BG3-Cx39|FRA-Var|2024-08-02
 		Ollioules-BG3-MX|FRA-Var|2024-08-02
 		Ollioules-BG3-MX|FRA-Var|2024-08-23
@@ -298,7 +298,7 @@ Begin trees;
 		22 JET8|FRA-Herault|2024-09-11,
 		23 Lattes-E12|FRA-Herault|2024-08-28,
 		24 Lattes-MX|FRA-Herault|2024-08-28,
-		25 OZ221437|Spain|2024-09-10,
+		25 PP_0011ANA|Spain|2024-09-10,
 		26 Ollioules-BG3-Cx39|FRA-Var|2024-08-02,
 		27 Ollioules-BG3-MX|FRA-Var|2024-08-02,
 		28 Ollioules-BG3-MX|FRA-Var|2024-08-23,
